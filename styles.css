@@ -5,7 +5,13 @@ body {
 #navbar {
     background-color: rgb(248, 244, 228);
 }
+.smallest-breakpoint {
+    height: 20px;
+}
 
+.mini-breakpoint{
+    height: 50px;
+}
 .breakpoint {
-    height: 100px;
+    height: 125px;
 }
