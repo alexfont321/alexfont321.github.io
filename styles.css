@@ -5,3 +5,7 @@ body {
 #navbar {
     background-color: rgb(248, 244, 228);
 }
+
+.breakpoint {
+    height: 100px;
+}
