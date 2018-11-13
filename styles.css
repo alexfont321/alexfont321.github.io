@@ -1,9 +1,13 @@
 body {
-    background-color: rgb(248, 244, 228);
+    /* background-color: rgb(248, 244, 228); */
+    background-color: #FDF9EB;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #navbar {
-    background-color: rgb(248, 244, 228);
+    /* background-color: rgb(248, 244, 228); */
+    background-color: #FDF9EB;
+
 }
 .smallest-breakpoint {
     height: 20px;
@@ -16,6 +20,14 @@ body {
     height: 125px;
 }
 
+#name{
+    font-family: 'IM Fell French Canon', serif;
+    font-size: 2rem
+}
+/* figure{
+    border: 1px solid black;
+} */
+
 /* footer {
-    height: 25px !important;
+    background-color: rgb(248, 244, 228);
 } */
